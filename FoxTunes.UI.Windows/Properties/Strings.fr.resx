@@ -138,6 +138,9 @@
   <data name="General.Search" xml:space="preserve">
     <value>Rechercher</value>
   </data>
+  <data name="General.Settings" xml:space="preserve">
+    <value />
+  </data>
   <data name="KeyBindingsBehaviourConfiguration.Next" xml:space="preserve">
     <value>Suivant</value>
   </data>
@@ -215,6 +218,63 @@
   </data>
   <data name="SettingsWindow.Title" xml:space="preserve">
     <value>Paramètres</value>
+  </data>
+  <data name="UIComponentRole.Container" xml:space="preserve">
+    <value>Container</value>
+  </data>
+  <data name="UIComponentRole.DSP" xml:space="preserve">
+    <value>DSP</value>
+  </data>
+  <data name="UIComponentRole.Info" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="UIComponentRole.Launcher" xml:space="preserve">
+    <value>Lanceur</value>
+  </data>
+  <data name="UIComponentRole.Library" xml:space="preserve">
+    <value>Bibliothèque</value>
+  </data>
+  <data name="UIComponentRole.None" xml:space="preserve">
+    <value>Autre</value>
+  </data>
+  <data name="UIComponentRole.Playback" xml:space="preserve">
+    <value>Lecture</value>
+  </data>
+  <data name="UIComponentRole.Playlist" xml:space="preserve">
+    <value>Liste de lecture</value>
+  </data>
+  <data name="UIComponentRole.System" xml:space="preserve">
+    <value>Système</value>
+  </data>
+  <data name="UIComponentRole.Visualization" xml:space="preserve">
+    <value>Visualisation</value>
+  </data>
+  <data name="VisualizationBehaviourConfiguration.FFTSize" xml:space="preserve">
+    <value>Taille FFT</value>
+  </data>
+  <data name="VisualizationBehaviourConfiguration.Interval" xml:space="preserve">
+    <value>Intervalle de mise à jour</value>
+  </data>
+  <data name="VisualizationBehaviourConfiguration.Quality" xml:space="preserve">
+    <value>Qualité</value>
+  </data>
+  <data name="VisualizationBehaviourConfiguration.Quality.High" xml:space="preserve">
+    <value>Haute</value>
+  </data>
+  <data name="VisualizationBehaviourConfiguration.Quality.Low" xml:space="preserve">
+    <value>Basse</value>
+  </data>
+  <data name="VisualizationBehaviourConfiguration.Section" xml:space="preserve">
+    <value>Visualisations</value>
+  </data>
+  <data name="VisualizationBehaviourConfiguration.Smooth" xml:space="preserve">
+    <value>Lissage</value>
+  </data>
+  <data name="VisualizationBehaviourConfiguration.SmoothFactor" xml:space="preserve">
+    <value>Facteur de lissage</value>
+  </data>
+  <data name="WindowsUserInterfaceConfiguration.Counters" xml:space="preserve">
+    <value>Afficher les compteurs</value>
   </data>
   <data name="WindowsUserInterfaceConfiguration.Cursors" xml:space="preserve">
     <value>Afficher les ornements du curseur</value>
