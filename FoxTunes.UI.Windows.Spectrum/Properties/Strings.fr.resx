@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="EnhancedSpectrum.Name" xml:space="preserve">
+    <value>Spectre amélioré</value>
+  </data>
   <data name="General.Advanced" xml:space="preserve">
     <value>Avancé</value>
   </data>
@@ -125,6 +128,9 @@
   </data>
   <data name="General.Bars" xml:space="preserve">
     <value>Barres</value>
+  </data>
+  <data name="Oscilloscope.Name" xml:space="preserve">
+    <value>Oscilloscope</value>
   </data>
   <data name="OscilloscopeBehaviourConfiguration.Duration" xml:space="preserve">
     <value>Durée</value>
@@ -141,6 +147,9 @@
   <data name="OscilloscopeBehaviourConfiguration.Path" xml:space="preserve">
     <value>Oscilloscope</value>
   </data>
+  <data name="PeakMeter.Name" xml:space="preserve">
+    <value>Compteur de crête</value>
+  </data>
   <data name="PeakMeterBehaviourConfiguration.Orientation" xml:space="preserve">
     <value>Orientation</value>
   </data>
@@ -152,6 +161,36 @@
   </data>
   <data name="PeakMeterBehaviourConfiguration.Path" xml:space="preserve">
     <value>Compteur de crête</value>
+  </data>
+  <data name="Speakers.Center" xml:space="preserve">
+    <value>C</value>
+  </data>
+  <data name="Speakers.FrontLeft" xml:space="preserve">
+    <value>FL</value>
+  </data>
+  <data name="Speakers.FrontRight" xml:space="preserve">
+    <value>FR</value>
+  </data>
+  <data name="Speakers.Left" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Speakers.LFE" xml:space="preserve">
+    <value>LFE</value>
+  </data>
+  <data name="Speakers.RearLeft" xml:space="preserve">
+    <value>RL</value>
+  </data>
+  <data name="Speakers.RearRight" xml:space="preserve">
+    <value>RR</value>
+  </data>
+  <data name="Speakers.Right" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="Speakers.Unknown" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Spectrum.Name" xml:space="preserve">
+    <value>Spectre</value>
   </data>
   <data name="SpectrumBehaviourConfiguration.Bands" xml:space="preserve">
     <value>Bandes (Améliorées)</value>
@@ -169,7 +208,7 @@
     <value>Durée de maintien</value>
   </data>
   <data name="SpectrumBehaviourConfiguration.Path" xml:space="preserve">
-    <value>Spectrum</value>
+    <value>Spectre</value>
   </data>
   <data name="SpectrumBehaviourConfiguration.Peaks" xml:space="preserve">
     <value>Afficher les pics</value>

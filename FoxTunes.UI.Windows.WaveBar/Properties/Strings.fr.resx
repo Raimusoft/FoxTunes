@@ -123,6 +123,9 @@
   <data name="WaveBarBehaviourConfiguration.Cache" xml:space="preserve">
     <value>Cache</value>
   </data>
+  <data name="WaveBarBehaviourConfiguration.Cleanup" xml:space="preserve">
+    <value>Nettoyer les fichiers temporaires</value>
+  </data>
   <data name="WaveBarBehaviourConfiguration.Mode" xml:space="preserve">
     <value>Mode</value>
   </data>
@@ -140,5 +143,8 @@
   </data>
   <data name="WaveBarBehaviourConfiguration.Section" xml:space="preserve">
     <value>Forme d'onde</value>
+  </data>
+  <data name="WaveFormStreamPosition.Name" xml:space="preserve">
+    <value>Barre de l'onde</value>
   </data>
 </root>

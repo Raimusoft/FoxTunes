@@ -117,11 +117,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Artwork.Name" xml:space="preserve">
+    <value>Pochette</value>
+  </data>
+  <data name="BackgroundTasks.Name" xml:space="preserve">
+    <value>Tâches d'arrière-plan</value>
+  </data>
   <data name="DefaultLayoutProvider.Description" xml:space="preserve">
     <value />
   </data>
   <data name="DefaultLayoutProvider.Name" xml:space="preserve">
     <value>Défaut</value>
+  </data>
+  <data name="DefaultPlaylist.Name" xml:space="preserve">
+    <value>Liste de lecture</value>
+  </data>
+  <data name="Equalizer.Name" xml:space="preserve">
+    <value>Égaliseur</value>
+  </data>
+  <data name="EqualizerDialog.Name" xml:space="preserve">
+    <value>Égaliseur</value>
   </data>
   <data name="EqualizerWindow.Title" xml:space="preserve">
     <value>Égaliseur</value>
@@ -139,7 +154,10 @@
     <value>Rechercher</value>
   </data>
   <data name="General.Settings" xml:space="preserve">
-    <value />
+    <value>Paramètres</value>
+  </data>
+  <data name="Info.Name" xml:space="preserve">
+    <value>Lecture en cours</value>
   </data>
   <data name="KeyBindingsBehaviourConfiguration.Next" xml:space="preserve">
     <value>Suivant</value>
@@ -163,10 +181,19 @@
     <value>Arrêter</value>
   </data>
   <data name="KeyBindingsBehaviourConfiguration.ToggleMiniPlayer" xml:space="preserve">
-    <value>Basculer vers le mini lecteur</value>
+    <value>Mini lecteur</value>
   </data>
   <data name="LibraryBase.Add" xml:space="preserve">
     <value>Ajouter des fichiers à la collection en les déposant ici</value>
+  </data>
+  <data name="LibrarySearch.Name" xml:space="preserve">
+    <value>Recherche</value>
+  </data>
+  <data name="LibrarySelector.Name" xml:space="preserve">
+    <value>Sélecteur</value>
+  </data>
+  <data name="LibraryTree.Name" xml:space="preserve">
+    <value>Arbre</value>
   </data>
   <data name="MinimalLayoutProvider.Description" xml:space="preserve">
     <value />
@@ -174,11 +201,23 @@
   <data name="MinimalLayoutProvider.Name" xml:space="preserve">
     <value>Minimal</value>
   </data>
+  <data name="MiniPlayer.Name" xml:space="preserve">
+    <value>Mini lecteur</value>
+  </data>
+  <data name="MiniPlaylist.Name" xml:space="preserve">
+    <value>Liste de lecture simple</value>
+  </data>
+  <data name="Playback.Name" xml:space="preserve">
+    <value>Commandes de lecture</value>
+  </data>
   <data name="PlaylistGroupingBehaviourConfiguration.Enabled" xml:space="preserve">
     <value>Regroupement</value>
   </data>
   <data name="PlaylistGroupingBehaviourConfiguration.Script" xml:space="preserve">
     <value>Script de regroupement</value>
+  </data>
+  <data name="Playlists.Name" xml:space="preserve">
+    <value>Onglets de la liste de lecture</value>
   </data>
   <data name="PlaylistSortingBehaviourConfiguration.Enabled" xml:space="preserve">
     <value>Tri</value>
@@ -201,6 +240,9 @@
   <data name="ProfilesBehaviourConfiguration.Section" xml:space="preserve">
     <value>Profils</value>
   </data>
+  <data name="Settings.Name" xml:space="preserve">
+    <value>Configuration des paramètres</value>
+  </data>
   <data name="SettingsDialog.EmptyPage" xml:space="preserve">
     <value>Veuillez sélectionner une sous rubrique</value>
   </data>
@@ -218,6 +260,18 @@
   </data>
   <data name="SettingsWindow.Title" xml:space="preserve">
     <value>Paramètres</value>
+  </data>
+  <data name="Shuffle.Name" xml:space="preserve">
+    <value>Shuffle</value>
+  </data>
+  <data name="StreamPosition.Name" xml:space="preserve">
+    <value>Seekbar</value>
+  </data>
+  <data name="Tempo.Name" xml:space="preserve">
+    <value>Tempo</value>
+  </data>
+  <data name="TempoDialog.Name" xml:space="preserve">
+    <value>Tempo</value>
   </data>
   <data name="UIComponentRole.Container" xml:space="preserve">
     <value>Container</value>
@@ -249,6 +303,12 @@
   <data name="UIComponentRole.Visualization" xml:space="preserve">
     <value>Visualisation</value>
   </data>
+  <data name="Visualization.Unavailable" xml:space="preserve">
+    <value>Visualisation non disponible.</value>
+  </data>
+  <data name="Visualization.UnavailableDetail" xml:space="preserve">
+    <value>Le mélangeur est requis pour le rendu, vérifiez vos paramètres de sortie.</value>
+  </data>
   <data name="VisualizationBehaviourConfiguration.FFTSize" xml:space="preserve">
     <value>Taille FFT</value>
   </data>
@@ -272,6 +332,9 @@
   </data>
   <data name="VisualizationBehaviourConfiguration.SmoothFactor" xml:space="preserve">
     <value>Facteur de lissage</value>
+  </data>
+  <data name="Volume.Name" xml:space="preserve">
+    <value>Volume</value>
   </data>
   <data name="WindowsUserInterfaceConfiguration.Counters" xml:space="preserve">
     <value>Afficher les compteurs</value>

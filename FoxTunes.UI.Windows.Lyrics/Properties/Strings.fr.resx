@@ -126,6 +126,9 @@
   <data name="ChartLyricsProviderConfiguration.MinConfidence" xml:space="preserve">
     <value>Confiance minimale</value>
   </data>
+  <data name="Lyrics.Name" xml:space="preserve">
+    <value>Paroles</value>
+  </data>
   <data name="LyricsBehaviourConfiguration.AutoLookup" xml:space="preserve">
     <value>Recherche automatique</value>
   </data>
